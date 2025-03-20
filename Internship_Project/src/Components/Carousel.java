@@ -23,6 +23,7 @@ public class Carousel extends JPanel {
     public Carousel(String imagePath) {
         setBackground(new Color(34, 40, 49));
         setLayout(new BorderLayout(0, 0));
+        setBorder(BorderFactory.createEmptyBorder(0, 0, 0, 0));
         images = loadImages(imagePath);
         imageLabel = new JLabel();
         add(imageLabel);
