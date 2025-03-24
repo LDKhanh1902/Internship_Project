@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KHANH\\source\\repos\\Internship_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{406EA9C1-2F3D-4F52-ADC0-9DE6831A571D}|Internship_Project\\Internship_Project.csproj|c:\\users\\khanh\\source\\repos\\internship_project\\internship_project\\views\\mainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{406EA9C1-2F3D-4F52-ADC0-9DE6831A571D}|Internship_Project\\Internship_Project.csproj|solutionrelative:internship_project\\views\\mainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{406EA9C1-2F3D-4F52-ADC0-9DE6831A571D}|Internship_Project\\Internship_Project.csproj|c:\\users\\khanh\\source\\repos\\internship_project\\internship_project\\views\\mainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{406EA9C1-2F3D-4F52-ADC0-9DE6831A571D}|Internship_Project\\Internship_Project.csproj|solutionrelative:internship_project\\views\\mainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{406EA9C1-2F3D-4F52-ADC0-9DE6831A571D}|Internship_Project\\Internship_Project.csproj|c:\\users\\khanh\\source\\repos\\internship_project\\internship_project\\views\\mainview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{406EA9C1-2F3D-4F52-ADC0-9DE6831A571D}|Internship_Project\\Internship_Project.csproj|solutionrelative:internship_project\\views\\mainview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainView.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\KHANH\\source\\repos\\Internship_Project\\Internship_Project\\Views\\MainView.Designer.cs",
+              "RelativeDocumentMoniker": "Internship_Project\\Views\\MainView.Designer.cs",
+              "ToolTip": "C:\\Users\\KHANH\\source\\repos\\Internship_Project\\Internship_Project\\Views\\MainView.Designer.cs",
+              "RelativeToolTip": "Internship_Project\\Views\\MainView.Designer.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAswE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T15:57:11.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainView.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KHANH\\source\\repos\\Internship_Project\\Internship_Project\\Views\\MainView.cs",
+              "RelativeDocumentMoniker": "Internship_Project\\Views\\MainView.cs",
+              "ToolTip": "C:\\Users\\KHANH\\source\\repos\\Internship_Project\\Internship_Project\\Views\\MainView.cs [Design]",
+              "RelativeToolTip": "Internship_Project\\Views\\MainView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T15:08:11.156Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainView.cs",
+              "DocumentMoniker": "C:\\Users\\KHANH\\source\\repos\\Internship_Project\\Internship_Project\\Views\\MainView.cs",
+              "RelativeDocumentMoniker": "Internship_Project\\Views\\MainView.cs",
+              "ToolTip": "C:\\Users\\KHANH\\source\\repos\\Internship_Project\\Internship_Project\\Views\\MainView.cs",
+              "RelativeToolTip": "Internship_Project\\Views\\MainView.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAcwGMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T10:50:54.125Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
